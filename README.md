@@ -132,6 +132,7 @@ for private study. </blockquote></p>
 
 <h4>Additional Material (not delivered as part of this course but included for reference)</h4>
 
+<ul>
 <li><a href="https://github.com/EPCCed/archer2-MPI-2024-04-03/raw/main/slides/L12-tipsandtricks.pdf">MPI Tips and Tricks (includes dynamic memory allocation in C and array syntax issues in Fortran)</a>
 <li><a href="https://github.com/EPCCed/archer2-MPI-2024-04-03/raw/main/slides/L13-scaling.pdf">MPI Scaling</a>
 </ul>
