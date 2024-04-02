@@ -2,7 +2,7 @@
 
 <br /><br /><br /><br /><br />
 
-# Met Office MPI course (December 2023)
+# ARCHER2 MPI course (April 2024)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -55,13 +55,13 @@ MPI from Python.
 
 <h2>Message Passing Programming with MPI</h2>
 
-<p><strong>Dates: </strong>7th - 8th December 2023
-<p><strong>Location: </strong>Met Office, Exeter</p>
+<p><strong>Dates: </strong>3rd - 4th April 2024
+<p><strong>Location: </strong>West Hub, University of Cambridge</p>
 
 
 <h3>Timetable</h3>
 
-<h4>Thursday 7th December</h4>
+<h4>Wednesday 3rd April</h4>
 
 <ul>
 <li>    09:30 Message-Passing Concepts
@@ -79,7 +79,7 @@ MPI from Python.
 <li>    17:00 Finish
 </ul>
 
-<h4>Friday 8th December</h4>
+<h4>Thursday 4th April</h4>
 
 <ul>
 
@@ -92,8 +92,8 @@ MPI from Python.
 <li>    12:30 Lunch
 <li>    13:30 Practical: Collective Communication
 <li>    14:00 Overview of Virtual Topologies and Derived Data Types
-<li>    14:30 Case Study
-<li>    15:00 Final Optional Session: Finish Exercises / Individual Consultancy
+<li>    14:45 Case Study
+<li>    15:15 Finish Exercises / Individual Consultancy
 <li>    16:00 Close
 
 </ul>
@@ -104,8 +104,6 @@ MPI from Python.
 &copy; EPCC, The University of Edinburgh, and is only made available
 for private study. </blockquote></p>
 
-Note that currently these are slides from a previous run of the course
-and may be updated between now and December 7th.
 
 <h4>Day 1</h4>
 
@@ -128,16 +126,14 @@ and may be updated between now and December 7th.
 <li><a href="https://github.com/EPCCed/archer2-MPI-2024-04-03/raw/main/slides/L08-collective.pdf">Collective Communication</a>
 <li><a href="https://github.com/EPCCed/archer2-MPI-2024-04-03/raw/main/slides/L09-topology.pdf">Virtual Topologies</a>
 <li><a href="https://github.com/EPCCed/archer2-MPI-2024-04-03/raw/main/slides/L10-derivedtypes.pdf">Derived Data Types</a> 
+<li><a href="https://github.com/EPCCed/archer2-MPI-2024-04-03/raw/main/slides/L11-casestudy.pdf">Case Study</a>
 
 </ul>
 
-<h4>Day 3</h4>
+<h4>Additional Material (not delivered as part of this course but included for reference)</h4>
 
-<ul>
-<li><a href="https://b.socrative.com/login/student/">MPI Quiz: enter <b>HPCQUIZ</b> as the "Room Name"</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-04-03/raw/main/slides/L11-casestudy.pdf">Case Study</a>
 <li><a href="https://github.com/EPCCed/archer2-MPI-2024-04-03/raw/main/slides/L12-tipsandtricks.pdf">MPI Tips and Tricks (includes dynamic memory allocation in C and array syntax issues in Fortran)</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-04-03/raw/main/slides/L13-scaling.pdf">MPI Scaling (not delivered as part of this course but included for reference)</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2024-04-03/raw/main/slides/L13-scaling.pdf">MPI Scaling</a>
 </ul>
 
 <h3>Notes</h3>
