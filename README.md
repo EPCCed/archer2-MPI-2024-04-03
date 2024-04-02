@@ -68,7 +68,7 @@ MPI from Python.
 <li>    10:15 Practical: Parallel Traffic Modelling
 <li>    10:45 Break
 <li>    11:15 MPI Programs
-<li>    12:00 MPI Programs on Cirrus
+<li>    12:00 MPI Programs on ARCHER2
 <li>    12:15 Practical: Hello World
 <li>    12:30 Lunch
 <li>    13:30 Point-to-Point Communication
@@ -149,7 +149,7 @@ for private study. </blockquote></p>
 
 <ul>
 <li><a href="https://github.com/EPCCed/archer2-MPI-2024-04-03/raw/main/exercises/road.pdf">Traffic modelling exercise sheet</a></li>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2024-04-03/raw/main/exercises/Cirrus-MPI-cribsheet.pdf">Instructions for logging on, compiling and running MPI jobs on Cirrus</a></li>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2024-04-03/raw/main/exercises/ARCHER2-MPI-cribsheet.pdf">Instructions for logging on, compiling and running MPI jobs on ARCHER2</a></li>
 <li><a href="https://github.com/EPCCed/archer2-MPI-2024-04-03/raw/main/exercises/MPP-templates.tar">Useful files and pieces of code: MPP-templates.tar</a></li>
 <li><a href="https://github.com/EPCCed/archer2-MPI-2024-04-03/raw/main/exercises/MPP-exercises.pdf">MPI exercise sheet</a></li>
 <li><a href="https://github.com/EPCCed/archer2-MPI-2024-04-03/raw/main/exercises/MPP-pi.tar">Detailed solutions to pi calculation example</a>
